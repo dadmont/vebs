@@ -1,0 +1,20 @@
+.heading {
+	color:red;
+}
+
+#h-2{
+	color:blue;
+}
+
+#h-3{
+	background-color:black;
+}
+
+#h-4{
+	border: solid;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#h-5:hover{
+	color: purple;
+}
